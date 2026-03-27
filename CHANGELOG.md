@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.1] - 2026-03-27
+### Added
+- Added example file for pub.dev package score.
+
 ## [1.1.0] - 2026-03-27
 ### Added
 - `--dry-run` (`-d`) flag to preview removals without modifying files.

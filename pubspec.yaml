@@ -1,6 +1,6 @@
 name: print_remover
-description: print_remover remove all print() statement from the code.
-version: 1.0.2
+description: Automatically removes all print() and debugPrint() statements from Dart files. Supports dry-run, custom paths, and verbose output.
+version: 1.1.0
 homepage:  https://github.com/cyclone-pk/print_remover
 
 environment:
